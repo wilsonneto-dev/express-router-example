@@ -1,0 +1,16 @@
+{
+    "name": "wilson/express-router-example",
+    "description": "Example of how to use the package express-router",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wilson Neto",
+            "email": "contato@wilsonneto.com.br"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "wilsonneto-dev/express-router": "^1.0"
+    }
+}
